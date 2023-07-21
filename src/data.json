@@ -1,0 +1,50 @@
+ const userData = [
+    {
+      "id": "101",
+      "name": "Dravid",
+      "email": "dravid@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    },
+    {
+      "id": "102",
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    },
+    {
+      "id": "103",
+      "name": "Sehwag",
+      "email": "sehwag@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    },
+    {
+      "id": "104",
+      "name": "Gambhir",
+      "email": "gambhir@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    },
+    {
+      "id": "105",
+      "name": "Zaheer",
+      "email": "Zaheer@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    },
+    {
+      "id": "106",
+      "name": "Yuvaraj",
+      "email": "yuvaraj@gmail.com",
+      "Gender": "Male",
+      "phone": "86******31",
+      "qualification": "B.tech",
+    }
+  ];

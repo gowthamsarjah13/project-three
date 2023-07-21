@@ -1,4 +1,4 @@
-import React, { useId, useState } from "react";
+import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { useHistory } from 'react-router-dom/cjs/react-router-dom.min';
@@ -86,7 +86,7 @@ function AddUserDetails({userDetail,children,setPerson,person}) {
 
       <Button onClick={(e)=>{
             e.preventDefault();
-            {addNew()}
+            addNew()
       }} variant="primary" type="submit">
         Submit
       </Button>

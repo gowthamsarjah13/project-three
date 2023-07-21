@@ -1,10 +1,10 @@
 // import React, { useState } from "react";
-import { createContext, useState } from "react";
+// import { createContext, useState } from "react";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 // import EditUser from './editUser';
 import { useHistory } from "react-router-dom/cjs/react-router-dom.min";
-import EditUser from "./editUser";
+// import EditUser from "./editUser";
 
 
 function Data({ person, setPerson }) {

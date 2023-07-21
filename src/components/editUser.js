@@ -37,7 +37,7 @@ function EditUser({setPerson,person}) {
    setGender(selectedUser.Gender)
    setPhone(selectedUser.phone)
    setQualification(selectedUser.qualification)
-  },[])
+  })
 
 
  const addNew = async(id) =>{
